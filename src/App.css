@@ -2,14 +2,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
   /* outline: 1px solid red; */
 }
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
-  background-color: #f4f4f4;
+  background-color: #efefef;
   color: #333;
   scroll-behavior: smooth;
 }
@@ -29,7 +28,7 @@ a:hover {
   text-decoration: underline;
 }
 
-/* ===== Sections ===== */
+/* Sections */
 section {
   padding: 60px 20px;
   max-width: 1000px;
@@ -47,7 +46,7 @@ h2 {
   padding-bottom: 5px;
 }
 
-/* ===== Hero Section ===== */
+/* Hero Section */
 #hero {
   background-color: #333;
   color: #fff;
@@ -81,7 +80,7 @@ h2 {
   margin: auto;
 }
 
-/* ===== Resume Section ===== */
+/* Resume Section */
 #resume {
   padding-bottom: 10px;
 }
@@ -114,7 +113,7 @@ h2 {
   font-size: 0.95rem;
 }
 
-/* ===== Projects Section ===== */
+/* Projects Section */
 #projects {
   display: flex;
   flex-direction: column;
@@ -155,13 +154,13 @@ h2 {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
 
-/* ===== About Me Section ===== */
+/* About Me Section */
 #about p {
   font-size: 1.1rem;
   max-width: 800px;
 }
 
-/* ===== Contact Section ===== */
+/* Contact Section */
 #contact p {
   margin-bottom: 10px;
 }
@@ -170,7 +169,7 @@ h2 {
   font-weight: bold;
 }
 
-/* ===== Footer ===== */
+/* Footer */
 footer {
   text-align: center;
   padding: 30px 20px;
@@ -179,7 +178,7 @@ footer {
   font-size: 0.9rem;
 }
 
-/* ===== Responsive ===== */
+/* Responsive */
 @media (max-width: 768px) {
   nav ul {
     flex-direction: column;

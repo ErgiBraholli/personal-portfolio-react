@@ -8,7 +8,7 @@ const Resume = () => {
       <h3>Education</h3>
       <ul>
         <li>
-          BSc in Informatcis and Mathematics Engineering - Universiteti i
+          BSc in Informatics and Mathematics Engineering - Universiteti i
           Tiranes (2022-2025)
         </li>
       </ul>
