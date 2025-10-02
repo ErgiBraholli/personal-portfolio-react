@@ -5,10 +5,15 @@ const Header = () => {
     <section id="about">
       <h2>About Me</h2>
       <p>
-        I'm driven by a passion for technology and problem-solving, with
-        interests spanning full stack developement, electronics, and fitness.
-        Outside of coding, I enjoy creating side projects, learning new
-        frameworks, and exploring emerging tech tools.
+        Curiosity and a love of learning have shaped my path, with technology,
+        electronics, and programming always central to my studies and projects.
+        I hold a Bachelor’s degree in Mathematical and Informatics Engineering
+        from the University of Tirana, with a strong foundation in software
+        engineering and full stack development, including hands-on experience in
+        the MERN stack. I combine analytical thinking with problem-solving
+        skills to create efficient, adaptable solutions, while enjoying side
+        projects, exploring new frameworks, and collaborating in team
+        environments.
       </p>
     </section>
   );

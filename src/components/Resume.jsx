@@ -21,18 +21,22 @@ const Resume = () => {
       <h3>Skills</h3>
       <div className="skills-grid">
         <div>
-          <strong>Web Dev:</strong> HTML5, CSS3, JavaScript (ES6+), Bootstrap,
-          React-Bootstrap, React.js, Node.js, Express.js, REST APIs, MongoDB,
-          SQL
+          <strong>Frontend:</strong> React (Hooks, Context),
+          React-Bootstrap/Bootstrap, JavaScript (ES6+), HTML5, CSS3
+          (Grid/Flexbox), Responsive design
         </div>
         <div>
-          <strong>Programming:</strong> C, C#, C++, Java
+          <strong>Backend:</strong> Node.js, Express, REST APIs, auth &
+          sessions/JWT, error handling, input validation, Data: MongoDB
+          (Mongoose), SQL, (CRUD, joins basics)
         </div>
         <div>
-          <strong>Tools:</strong> Git, GitHub, VS Code, Postman, npm/yarn
+          <strong>Tooling & Practices:</strong> Git & GitHub (branching/PRs), VS
+          Code, Postman, npm/yarn, environment variables, .env workflows
         </div>
         <div>
-          <strong>Other:</strong> Troubleshooting, Repairs, Photo/Video Editing
+          <strong>Other:</strong> PC troubleshooting & repairs, Photo/Video
+          Editing
         </div>
       </div>
     </section>
