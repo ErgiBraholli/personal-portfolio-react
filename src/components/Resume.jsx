@@ -15,24 +15,24 @@ const Resume = () => {
       {/* To fill in the future */}
       <h3>Work Experience</h3>
       <ul>
-        <li>Customer Service</li>
+        <li>-</li>
       </ul>
       {/* To add more */}
       <h3>Skills</h3>
       <div className="skills-grid">
         <div>
-          <strong>Frontend:</strong> React (Hooks, Context),
-          React-Bootstrap/Bootstrap, JavaScript (ES6+), HTML5, CSS3
-          (Grid/Flexbox), Responsive design
+          <strong>Frontend:</strong> React.js (Hooks, Context),
+          React-Bootstrap/Bootstrap, Tailwind CSS, JavaScript (ES6+), HTML5,
+          CSS3 (Grid/Flexbox), Responsive design
         </div>
         <div>
-          <strong>Backend:</strong> Node.js, Express, REST APIs, auth &
-          sessions/JWT, error handling, input validation, Data: MongoDB
-          (Mongoose), SQL, (CRUD, joins basics)
+          <strong>Backend:</strong> Node.js, Express.js, REST APIs, Auth &
+          Sessions/JWT, Input validation, MongoDB (Mongoose), SQL, PostgreSQL
+          CRUD
         </div>
         <div>
-          <strong>Tooling & Practices:</strong> Git & GitHub (branching/PRs), VS
-          Code, Postman, npm/yarn, environment variables, .env workflows
+          <strong>Tooling & Practices:</strong> Git & GitHub (branching/PRs),
+          Error handling, VS Code, Postman, npm/yarn
         </div>
         <div>
           <strong>Other:</strong> PC troubleshooting & repairs, Photo/Video

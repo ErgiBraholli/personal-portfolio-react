@@ -29,7 +29,7 @@ const Header = () => {
         <h3>Dhurata Ime</h3>
         <div class="projects-screenshot">
           <a
-            href="https://github.com/Ergi24/dhurata-ime.git"
+            href="https://github.com/ErgiBraholli/dhurata-ime"
             alt="link to github repo"
             target="_blank"
             rel="noopener noreferrer"
