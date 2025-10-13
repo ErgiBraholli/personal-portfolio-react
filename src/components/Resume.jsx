@@ -12,11 +12,13 @@ const Resume = () => {
           Tiranes (2022-2025)
         </li>
       </ul>
+
       {/* To fill in the future */}
       <h3>Work Experience</h3>
       <ul>
         <li>-</li>
       </ul>
+
       {/* To add more */}
       <h3>Skills</h3>
       <div className="skills-grid">
@@ -38,6 +40,56 @@ const Resume = () => {
           <strong>Other:</strong> PC troubleshooting & repairs, Photo/Video
           Editing
         </div>
+      </div>
+
+      <h3 className="course-header">Courses & Certifications</h3>
+      <div className="courses-grid">
+        <a className="course" href="" target="_blank" rel="noopener noreferrer">
+          <div className="course-title">MERN Technologies</div>
+          <div className="course-meta">
+            Dominusoft Education · 2025 · Certificate
+          </div>
+        </a>
+
+        <a
+          className="course"
+          href="https://www.udemy.com/certificate/UC-1f810560-c3df-4ba3-887b-795c27270bb3/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <div className="course-title">
+            The Complete Full-Stack Web Development Bootcamp
+          </div>
+          <div className="course-meta">Udemy · 2025 · Certificate</div>
+        </a>
+
+        <a
+          className="course"
+          href="https://www.udemy.com/course/the-ultimate-react-course/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <div className="course-title">
+            The Ultimate React Course 2025: React, Next.js, Redux & More
+          </div>
+          <div className="course-meta">
+            Udemy · <span className="badge">Ongoing</span>
+          </div>
+        </a>
+
+        <a
+          className="course"
+          href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <div className="course-title">
+            Node.js, Express, MongoDB & More: The Complete Bootcamp
+          </div>
+          <div className="course-meta">
+            Udemy · <span className="badge">Ongoing</span>
+          </div>
+        </a>
       </div>
     </section>
   );

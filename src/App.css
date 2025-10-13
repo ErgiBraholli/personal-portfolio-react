@@ -99,7 +99,7 @@ h2 {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 15px;
-  margin-top: 10px;
+  margin: 10px 0;
   background-color: #f8f8f8;
   padding: 15px;
   border-radius: 8px;
@@ -113,11 +113,63 @@ h2 {
   font-size: 0.95rem;
 }
 
+/* Courses Section */
+.course-header {
+  margin-top: 30px;
+}
+
+.courses-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 15px;
+  margin: 10px 0;
+  background-color: #f8f8f8;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.course {
+  display: block; /* so links behave like cards */
+  background: #fff;
+  border-radius: 6px;
+  padding: 10px 12px;
+  text-decoration: none; /* remove underline on linked cards */
+  color: inherit; /* keep text colour consistent */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.course:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.course-title {
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.course-meta {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.badge {
+  display: inline-block;
+  font-size: 0.78rem;
+  padding: 2px 6px;
+  border-radius: 10px;
+  background: #eee;
+  color: #333;
+}
+
 /* Projects Section */
 #projects {
   display: flex;
   flex-direction: column;
   gap: 40px;
+  padding-top: 30px;
 }
 
 .project {
