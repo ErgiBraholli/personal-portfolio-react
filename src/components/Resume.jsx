@@ -13,10 +13,12 @@ const Resume = () => {
         </li>
       </ul>
 
-      {/* To fill in the future */}
       <h3>Work Experience</h3>
       <ul>
-        <li>-</li>
+        <li>
+          MERN Full Stack Developer Internship - Dominusoft Company (October
+          2025 - Present)
+        </li>
       </ul>
 
       {/* To add more */}
@@ -44,7 +46,12 @@ const Resume = () => {
 
       <h3 className="course-header">Courses & Certifications</h3>
       <div className="courses-grid">
-        <a className="course" href="" target="_blank" rel="noopener noreferrer">
+        <a
+          className="course"
+          href="https://drive.google.com/file/d/1whL-Y1tcAGZbsBdzX0gKSmATLQ9uS7SZ/view?usp=share_link"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <div className="course-title">MERN Technologies</div>
           <div className="course-meta">
             Dominusoft Education · 2025 · Certificate
