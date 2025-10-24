@@ -48,7 +48,7 @@ const Resume = () => {
       <div className="courses-grid">
         <a
           className="course"
-          href="https://drive.google.com/file/d/1whL-Y1tcAGZbsBdzX0gKSmATLQ9uS7SZ/view?usp=share_link"
+          href="https://portal.dominusoft.al/certification/4f3ee7e4-89bb-4fb6-8990-8d774211b790/?els=g6pQ6NFgiehBu1ZYsmDiNF/C0RXq0g/tH4KUiguS3a9U3joeRCdtpFgulEzq1uNvF4BByW4SJSY9NzLWUcCILrcLhse/NDOov6pPtED%20Q1HfuvnkXP6i4deIwX/Pzr8sEqpvWnItyhz5ze6dyLwNhzxr8M5q14oyLiyFnI/t1V/hu3c5dgser3fctWZyciUm177wcAycddM3k3UZXDmT4vYICKxcevfj3UuBS1VOnZpGK9xWiiWpjv4zyd4HntB8VWsOCxYUZA/R9NL/ZsgXlq/yoDO5Tx1g5THg30ANcdsexZsrci1c/eHnIVTMfV18Xb0E2qAZo5XjuxUrSDIPkw==&dw=0"
           target="_blank"
           rel="noopener noreferrer"
         >
