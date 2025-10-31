@@ -25,18 +25,16 @@ const Resume = () => {
       <h3>Skills</h3>
       <div className="skills-grid">
         <div>
-          <strong>Frontend:</strong> React.js (Hooks, Context),
-          React-Bootstrap/Bootstrap, Tailwind CSS, JavaScript (ES6+), HTML5,
-          CSS3 (Grid/Flexbox), Responsive design
+          <strong>Frontend:</strong> React.js, JavaScript, Bootstrap, Tailwind
+          CSS, HTML, CSS, Responsive and Accessible UI Design
         </div>
         <div>
-          <strong>Backend:</strong> Node.js, Express.js, REST APIs, Auth &
-          Sessions/JWT, Input validation, MongoDB (Mongoose), SQL, PostgreSQL
-          CRUD
+          <strong>Backend:</strong> Node.js, Express.js, RESTful API, CRUD,
+          Authentication & Authorization,MongoDB, SQL, PostgreSQL
         </div>
         <div>
-          <strong>Tooling & Practices:</strong> Git & GitHub (branching/PRs),
-          Error handling, VS Code, Postman, npm/yarn
+          <strong>Tooling & Practices:</strong> Git & GitHub, Error Handling &
+          Debugging, Visual Studio Code, Postman, npm & yarn
         </div>
         <div>
           <strong>Other:</strong> PC troubleshooting & repairs, Photo/Video
